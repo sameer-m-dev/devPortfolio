@@ -18,11 +18,10 @@ export default function Footer() {
           &lt;/&gt;{" "}
         </p>
         <img
-          className="footer-text"
-          src="https://hitwebcounter.com/counter/counter.php?page=7286883&style=0006&nbdigits=5&type=page&initCount=0"
-          title="Page Hits"
-          Alt="PHP Hits Count"
+          src="https://counter11.stat.ovh/private/freecounterstat.php?c=muamtzgzz2nt7p32frrhsb5mwgyc8wes"
           border="0"
+          title="Page Hits"
+          alt="Page Hits"
         />
       </Fade>
     </div>
