@@ -7,13 +7,6 @@ export default function Footer() {
   return (
     <div className="footer-div" style={{ textAlignLast: "center" }}>
       <Fade>
-        <img
-          className="footer-text"
-          src="https://hitwebcounter.com/counter/counter.php?page=7286883&style=0006&nbdigits=5&type=page&initCount=0"
-          title="Page Hits"
-          Alt="PHP Hits Count"
-          border="0"
-        />
         <p className="footer-text">
           Made by{" "}
           <a
@@ -24,6 +17,13 @@ export default function Footer() {
           </a>{" "}
           &lt;/&gt;{" "}
         </p>
+        <img
+          className="footer-text"
+          src="https://hitwebcounter.com/counter/counter.php?page=7286883&style=0006&nbdigits=5&type=page&initCount=0"
+          title="Page Hits"
+          Alt="PHP Hits Count"
+          border="0"
+        />
       </Fade>
     </div>
   );
