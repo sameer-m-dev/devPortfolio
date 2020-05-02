@@ -1,6 +1,6 @@
 # Software Developer Master Portfolio ⚡️  
 
-[![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio)
+<!-- [![HitCount](http://hits.dwyl.com/ashutosh1919/masterPortfolio.svg)](http://hits.dwyl.com/ashutosh1919/masterPortfolio) -->
 
 
 ## A clean, beautiful and responsive portfolio template for Developers!
