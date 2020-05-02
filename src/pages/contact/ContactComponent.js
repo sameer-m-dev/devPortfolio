@@ -13,7 +13,7 @@ const addressSection = {
 	subtitle:
 		"Natasha Park, Mira Road (East), Thane - 401107",
 	avatar_image_path: "address_image.svg",
-	location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76"
+	location_map_link: "https://goo.gl/maps/oyqbqxMZtwthEJXK7"
 };
 
 const phoneSection = {
