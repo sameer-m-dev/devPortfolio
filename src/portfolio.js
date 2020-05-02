@@ -8,13 +8,12 @@ const theme = {
 
 const greeting = {
 	/* Your Summary And Greeting Section */
-	//title: "Hi all 👋 I'm Saad",
 	title: "Hi all 👋 I'm Sameer",
 	nickname: "Data Scientist",
 	subTitle:
 		"An Engineer with a strong programming background and experience of using predictive modeling, data mining algorithms, neural networks to solve challenging problems. Expertise in deploying production-grade environments on AWS and GCP in a cost-effective, secure and highly available manner. ",
 	resumeLink:
-		"https://drive.google.com/open?id=1XYpYhLeqCdyx_q6l0bQoC7RgwQjAjXPf"
+		"https://drive.google.com/file/d/13yrSn_vkDnB2Szcn_eLMasdjwhYwkfVN/view?usp=sharing"
 };
 
 const socialMediaLinks = {
@@ -260,112 +259,112 @@ const degrees = {
 const certifications = {
 	certifications: [
 		{
-			title: "Machine Learning",
-			subtitle: "- Andrew Ng",
-			logo_path: "stanford_logo.png",
+			title: "Applied Data Science with Python",
+			subtitle: "- University of Michigan",
+			logo_path: "uom.jpg",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/22MTSSC5WDTM",
+				"https://www.coursera.org/account/accomplishments/specialization/RH8ZYS6SEYRQ",
 			alt_name: "Stanford University",
-			color_code: "#8C151599"
+			color_code: "#000080"
 		},
 		{
 			title: "Deep Learning",
 			subtitle: "- Andrew Ng",
 			logo_path: "deeplearning_ai_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/H8CPSFXAJD2G",
+				"https://www.coursera.org/account/accomplishments/specialization/certificate/9DEG8JTM35G7",
 			alt_name: "deeplearning.ai",
 			color_code: "#00000099"
 		},
 		{
-			title: "ML on GCP",
-			subtitle: "- GCP Training",
-			logo_path: "google_logo.png",
+			title: "Machine Learning with TensorFlow on GCP",
+			subtitle: "- Qwiklabs",
+			logo_path: "gcp_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/EB4VJARK8647",
-			alt_name: "Google",
-			color_code: "#0C9D5899"
+				"https://www.coursera.org/account/accomplishments/specialization/certificate/CCL9JQHST35Z",
+			alt_name: "GCP",
+			color_code: "#4285F499"
 		},
 		{
-			title: "Data Science",
-			subtitle: "- Alex Aklson",
-			logo_path: "ibm_logo.png",
+			title: "Data Engineering on Google Cloud Platform",
+			subtitle: "- Qwiklabs",
+			logo_path: "gcp_logo.png",
 			certificate_link:
-				"https://www.coursera.org/account/accomplishments/specialization/PLEAPCSJBZT5",
-			alt_name: "IBM",
-			color_code: "#1F70C199"
+				"https://www.coursera.org/account/accomplishments/specialization/certificate/QM7SK2FB5PD2",
+			alt_name: "GCP",
+			color_code: "#4285F499"
 		},
 		{
 			title: "Big Data",
-			subtitle: "- Kim Akers",
-			logo_path: "microsoft_logo.png",
+			subtitle: "- University of California",
+			logo_path: "uocsd.png",
 			certificate_link:
-				"https://drive.google.com/file/d/164zKCFOsI4vGqokc-Qj-e_D00kLDHIrG/view",
-			alt_name: "Microsoft",
-			color_code: "#D83B0199"
-		},
-		{
-			title: "Advanced Data Science",
-			subtitle: "- Romeo Kienzler",
-			logo_path: "ibm_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/BH2T9BRU87BH",
-			alt_name: "IBM",
-			color_code: "#1F70C199"
-		},
-		{
-			title: "Advanced ML on GCP",
-			subtitle: "- GCP Training",
-			logo_path: "google_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/5JZZM7TNQ2AV",
-			alt_name: "Google",
-			color_code: "#0C9D5899"
-		},
-		{
-			title: "DL on Tensorflow",
-			subtitle: "- Laurence Moroney",
-			logo_path: "deeplearning_ai_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/verify/6T4DCUGNK8J8",
-			alt_name: "deeplearning.ai",
-			color_code: "#00000099"
-		},
-		{
-			title: "Fullstack Development",
-			subtitle: "- Jogesh Muppala",
-			logo_path: "coursera_logo.png",
-			certificate_link:
-				"https://www.coursera.org/account/accomplishments/certificate/NRANJA66Y2YA",
-			alt_name: "Coursera",
-			color_code: "#2A73CC"
-		},
-		{
-			title: "Kuberenetes on GCP",
-			subtitle: "- Qwiklabs",
-			logo_path: "gcp_logo.png",
-			certificate_link:
-				"https://google.qwiklabs.com/public_profiles/e4d5a92b-faf6-4679-a70b-a9047c0cd750",
-			alt_name: "GCP",
-			color_code: "#4285F499"
-		},
-		{
-			title: "Cryptography",
-			subtitle: "- Saurabh Mukhopadhyay",
-			logo_path: "nptel_logo.png",
-			certificate_link:
-				"https://drive.google.com/open?id=1z5ExD_QJVdU0slLkp8CBqSF3-C3g-ro_",
-			alt_name: "NPTEL",
+				"https://www.coursera.org/account/accomplishments/specialization/certificate/6LJGTSUC6AJL",
+			alt_name: "University of California",
 			color_code: "#FFBB0099"
 		},
 		{
-			title: "Cloud Architecture",
+			title: "EMC Academic Associate, Data Science and Big Data Analytics",
+			subtitle: "- Dell EMC",
+			logo_path: "emc.png",
+			certificate_link:
+				"https://www.certmetrics.com/dell/public/verification.aspx",
+			alt_name: "Dell EMC",
+			color_code: "#efffa4"
+		},
+		{
+			title: "Certified Blockchain Architect™",
+			subtitle: "- Blockchain Council",
+			logo_path: "bc.png",
+			certificate_link:
+				"https://www.credential.net/13905785",
+			alt_name: "Blockchain Council",
+			color_code: "#2A73CC"
+    },
+    {
+			title: "Architecting with Google Compute Engine ",
 			subtitle: "- Qwiklabs",
 			logo_path: "gcp_logo.png",
 			certificate_link:
-				"https://google.qwiklabs.com/public_profiles/5fab4b2d-be6f-408c-8dcb-6d3b58ecb4a2",
+				"https://www.coursera.org/account/accomplishments/specialization/certificate/N9DNMDXGQ9RK",
 			alt_name: "GCP",
 			color_code: "#4285F499"
+		},
+		{
+			title: "Certified Blockchain Developer",
+			subtitle: "- Blockchain Council",
+			logo_path: "bc.png",
+			certificate_link:
+				"https://www.credential.net/13962912",
+			alt_name: "Blockchain Council",
+			color_code: "#2A73CC"
+		},
+		{
+			title: "Machine Learning A to Z",
+			subtitle: "- Udemy",
+			logo_path: "udemy.svg",
+			certificate_link:
+				"https://www.udemy.com/certificate/UC-RTK08ZMX/",
+			alt_name: "Udemy",
+			color_code: "lightgrey"
+		},
+		{
+			title: "Accelerated Computing with Cuda Python",
+			subtitle: "- NVIDIA",
+			logo_path: "nvidia.png",
+			certificate_link:
+				"https://courses.nvidia.com/certificates/27ee583b775447ea861821a85fc946cb",
+			alt_name: "NVIDIA",
+			color_code: "#efffa4"
+		},
+		{
+			title: "Image Recognition with Neural Networks",
+			subtitle: "- Udemy",
+			logo_path: "udemy.svg",
+			certificate_link:
+				"https://www.udemy.com/certificate/UC-YUN25OG8/",
+			alt_name: "Udemy",
+			color_code: "lightgrey"
 		}
 	]
 };
@@ -390,70 +389,6 @@ const bigProjects = {
   ]
 };
 
-const achievementSection = {
-  /* Your Achievement Section Include Your Certification Talks and More */
-
-  title: "Achievements And Certifications 🏆 ",
-  subtitle:
-    "Achievements, Certifications Award Letters and Some Cool Stuff that i have done !",
-
-  achivementsCards: [
-    {
-      title: "Google Code-In Finalist",
-      description:
-        "First Pakistani to be selected as Google Google-in Finalist from 4000 students from 77 diffrent countries",
-      image:
-        "https://1.bp.blogspot.com/-Ig-v1tDXZt4/XDODmZvWp1I/AAAAAAAAB0A/KtbFdBPFVQw2O15FekkIR0Yg8MUp--rngCLcBGAs/s1600/GCI%2B-%2BVertical%2B-%2BGray%2BText%2B-%2BWhite%2BBG.png",
-      footerLink: [
-        {
-          name: "Certification",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
-        },
-        {
-          name: "Award Letter",
-          url:
-            "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url:
-            "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
-        }
-      ]
-    },
-    {
-      title: "Google Assistant Action",
-      description:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image:
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png",
-      footerLink: [
-        {
-          name: "View Google Assistant Action",
-          url:
-            "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
-        }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      description:
-        "Completed Certifcation from SMIT for PWA Web App Development",
-      image:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu93Bd6LDbxPEOXr-hfLqLYzmHny8c0MJoI3exQP-lwpFLRT7g&s",
-      footerLink: [
-        { name: "Certification", url: "" },
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
-  ]
-};
-
 const contactInfo = {
   title: "Contact Me ☎️",
   subtitle: "Discuss a project or just want to say hi? My inbox is open for all",
@@ -471,6 +406,5 @@ export {
 	certifications,
 	openSource,
 	bigProjects,
-	achievementSection,
 	contactInfo
 };
